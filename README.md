@@ -25,7 +25,7 @@ stdio.in.on('data', (data) => {
 
 ## API
 
-See the [full API reference](https://docs.pears.com/reference/bare/modules/bare-stdio).
+See the [`bare-stdio` reference](https://docs.pears.com/reference/bare/modules/bare-stdio).
 
 ## License
 
